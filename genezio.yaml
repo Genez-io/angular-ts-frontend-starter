@@ -1,0 +1,6 @@
+name: (•◡•)project-name(•◡•)
+region: (•◡•)region(•◡•)
+frontend:
+  path: ./dist
+scripts:
+  preFrontendDeploy: npm install @genezio-sdk/(•◡•)project-name(•◡•)_(•◡•)region(•◡•) && npm install && npm run build
