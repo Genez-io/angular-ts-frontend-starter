@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { FormsModule } from '@angular/forms';
-import { BackendService } from '@genezio-sdk/(•◡•)project-name(•◡•)_(•◡•)region(•◡•)';
+import { BackendService } from '@genezio-sdk/(•◡•)project-name(•◡•)';
 
 @Component({
   selector: 'app-root',
